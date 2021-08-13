@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinniFachini
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning VueJS with Vuex and VueRouter, and in the future, VueNative
-- 💞️ I’m looking to collaborate on your company!
+- 👀 I’m interested in front-end Web Development and Data Science
+- 🌱 I’m currently learning NuxtJS and Python
+- 💞️ I’m looking forward to collaborate on your company!
 - 📫 How to reach me: vinniebrasil@gmail.com
 
 <!---
